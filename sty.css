@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(78, 12, 12);
+    font-weight: bolder;
+    font-size:larger;
+    text-align: center;
+}
+h2{
+    color: rgb(78, 12, 12);
+    font-weight: bolder;
+    font-size:larger;
+    text-align:left; 
+}
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: rgb(158, 101, 101);
+}
+.left {
+    color:rgb(123, 127, 87);
+    text-align: left;
+}
+.center {
+    color: rgb(9, 58, 42);
+    text-align: center;
+}
+.right{
+    color: rgb(133, 83, 8);
+    text-align: right;
+}
+.divider{
+    background-color: rgba(159, 159, 151, 0.575);
+    padding: 30px;
+    margin: 30px;
+}
+a{
+    color: rgb(2, 49, 78);
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bolder;
+    color: rgb(4, 5, 36);
+}
+img{
+    width:50%;
+    /*position: absolute;
+    z-index: -1; */
+}
